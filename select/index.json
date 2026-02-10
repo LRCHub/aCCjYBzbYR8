@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Baby, with u",
+  "base_artist": "eill",
+  "createdAt": "2026-02-10T16:38:03.266894Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Baby, with u",
+      "artist": "eill",
+      "has_synced": false,
+      "path": "select/01_Baby,_with_u_eill.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rock Me Baby (With Eric Clapton)",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/02_Rock_Me_Baby_(With_Eric_Clapton)_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'm Not Your Baby (with Sinead O'Connor)",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/03_I'm_Not_Your_Baby_(with_Sinead_O'Connor)_U2.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jolson Medley: Sonny Boy/My Mammy/Rock-A-Bye Your Baby With A Dixie Melody",
+      "artist": "Cher",
+      "has_synced": false,
+      "path": "select/04_Jolson_Medley__Sonny_Boy_My_Mammy_Rock-A-Bye_Your_Baby_With_A_Dixie_Melody_Cher.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "When Something Is Wrong with My Baby (with Aaron Neville & AG Thomas)",
+      "artist": "Linda Ronstadt",
+      "has_synced": false,
+      "path": "select/05_When_Something_Is_Wrong_with_My_Baby_(with_Aaron_Neville_&_AG_Thomas)_Linda_Ronstadt.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rock-A-Bye Your Baby With a Dixie Melody",
+      "artist": "Sammy Davis, Jr.",
+      "has_synced": false,
+      "path": "select/06_Rock-A-Bye_Your_Baby_With_a_Dixie_Melody_Sammy_Davis,_Jr..txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Comin' Home Baby (with Boyz II Men)",
+      "artist": "Michael Bublé",
+      "has_synced": false,
+      "path": "select/07_Comin'_Home_Baby_(with_Boyz_II_Men)_Michael_Bublé.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Since I Met You Baby (With Bb King)",
+      "artist": "Gary Moore",
+      "has_synced": true,
+      "path": "select/08_Since_I_Met_You_Baby_(With_Bb_King)_Gary_Moore.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rock-A-Bye Your Baby With a Dixie Melody",
+      "artist": "Aretha Franklin",
+      "has_synced": true,
+      "path": "select/09_Rock-A-Bye_Your_Baby_With_a_Dixie_Melody_Aretha_Franklin.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rock-A-Bye Your Baby with a Dixie Melody",
+      "artist": "Aretha Franklin",
+      "has_synced": false,
+      "path": "select/10_Rock-A-Bye_Your_Baby_with_a_Dixie_Melody_Aretha_Franklin.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Brown Baby (with Francesco Turrisi)",
+      "artist": "Rhiannon Giddens feat. Francesco Turrisi",
+      "has_synced": false,
+      "path": "select/11_Brown_Baby_(with_Francesco_Turrisi)_Rhiannon_Giddens_feat._Francesco_Turrisi.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Roll With My Baby [With The Raylettes]",
+      "artist": "Ray Charles",
+      "has_synced": false,
+      "path": "select/12_Roll_With_My_Baby_[With_The_Raylettes]_Ray_Charles.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "You Be My Baby [With The Raylettes]",
+      "artist": "Ray Charles",
+      "has_synced": true,
+      "path": "select/13_You_Be_My_Baby_[With_The_Raylettes]_Ray_Charles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rock a Bye Your Baby with a Dixie melody",
+      "artist": "Jerry Lewis",
+      "has_synced": true,
+      "path": "select/14_Rock_a_Bye_Your_Baby_with_a_Dixie_melody_Jerry_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rock-a-Bye Your Baby with a Dixie Melody",
+      "artist": "Jerry Lewis",
+      "has_synced": true,
+      "path": "select/15_Rock-a-Bye_Your_Baby_with_a_Dixie_Melody_Jerry_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Comin' Home Baby (with Boyz II Men)",
+      "artist": "Michael Bublé feat. Boyz II Men",
+      "has_synced": false,
+      "path": "select/16_Comin'_Home_Baby_(with_Boyz_II_Men)_Michael_Bublé_feat._Boyz_II_Men.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Merry Christmas Baby (with The Royal Philharmonic Orchestra)",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/17_Merry_Christmas_Baby_(with_The_Royal_Philharmonic_Orchestra)_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "There's No Other (Like My Baby) (With Party Session Intro/2012 Unplugged Mix)",
+      "artist": "The Beach Boys",
+      "has_synced": false,
+      "path": "select/18_There's_No_Other_(Like_My_Baby)_(With_Party_Session_Intro_2012_Unplugged_Mix)_The_Beach_Boys.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Rock‐a‐bye Your Baby With a Dixie Melody",
+      "artist": "Aretha Franklin",
+      "has_synced": true,
+      "path": "select/19_Rock‐a‐bye_Your_Baby_With_a_Dixie_Melody_Aretha_Franklin.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Shea Butter Baby (with J. Cole)",
+      "artist": "Ari Lennox feat. J. Cole",
+      "has_synced": true,
+      "path": "select/20_Shea_Butter_Baby_(with_J._Cole)_Ari_Lennox_feat._J._Cole.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Baby, with u",
+      "artist": "eill",
+      "has_synced": false,
+      "path": "select/pl_01_Baby,_with_u_eill.txt"
+    }
+  ]
+}
